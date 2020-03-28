@@ -1,0 +1,49 @@
+.opcje{
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-weight: 700;
+}
+
+.plener{
+  width: 33%;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.sluby{
+  width: 33%;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.studio{
+  width: 33%;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+.plener img{
+  transition: transform 0.2s ease-in-out;
+}
+.plener img:hover{
+  transform: scale(0.9);
+}
+
+.sluby img{
+  transition: transform 0.2s ease-in-out;
+}
+.sluby img:hover{
+  transform: scale(0.9);
+}
+
+.studio img{
+  transition: transform 0.2s ease-in-out;
+}
+.studio img:hover{
+  transform: scale(0.9);
+}

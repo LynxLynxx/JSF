@@ -7,13 +7,25 @@ body{
   /*font-family: 'Roboto', sans-serif;*/
 }
 
+
 .wrapper{
   width: 100%;
 }
 .header{
+  font-family: 'Roboto', sans-serif;
+  padding: 30px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+
+}
+.header a{
+  color: #1b253f;
+  text-decoration: none;
+  display: block;
+  font-weight: 700;
+  font-size: 48px;
+  letter-spacing: 2px;
 }
 
 .nav{
@@ -76,4 +88,16 @@ ol a{
 .footer a{
   color: #fff;
   text-decoration: none;
+}
+
+.content{
+  padding-top: 110px;
+  padding-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 72px;
+  line-height: 94px;
+  font-weight: 500;
 }
