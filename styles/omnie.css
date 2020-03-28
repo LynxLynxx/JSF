@@ -45,17 +45,3 @@ h3{
   color: #677079;
   text-align: center;
 }
-.footer{
-  background-color: #222222;
-  text-align: center;
-  padding: 15px;
-  color: #fff;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
-  font-size: 13px;
-  line-height: 20px;
-}
-.footer a{
-  color: #fff;
-  text-decoration: none;
-}
