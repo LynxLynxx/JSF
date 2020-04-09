@@ -1,0 +1,8 @@
+.opinie img{
+  max-width: 100%;
+
+}
+.opinie{
+  display: table;
+  margin: 0 auto;
+}

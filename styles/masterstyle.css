@@ -1,16 +1,20 @@
-body{
+html,body{
   background-color: #fcf9f5;
   color: #1b253f;
   font-size: 20px;
   margin: 0 !important;
   font-family: 'Poppins', sans-serif;
+  height: 100%;
   /*font-family: 'Roboto', sans-serif;*/
 }
 
 
 .wrapper{
   width: 100%;
+  margin: 0;
+
 }
+
 .header{
   font-family: 'Roboto', sans-serif;
   padding: 30px;
@@ -34,6 +38,7 @@ body{
   border-bottom: 2px solid #808080;
   position: sticky;
   top: 0;
+  z-index: 100;
 }
 .navbar{
   width: 95%;
@@ -76,6 +81,7 @@ ol a{
   padding-right: 5px;
 }
 .footer{
+
   background-color: #222222;
   text-align: center;
   padding: 15px;
